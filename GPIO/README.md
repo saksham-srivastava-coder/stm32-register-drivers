@@ -1,7 +1,7 @@
 # Embedded Systems Developer
 
 ## About Me
-I'm an embedded systems enthusiast with hands-on experience in STM32 microcontroller programming. I enjoy working with low-level hardware programming and building functional embedded applications from scratch.
+My name is Saksham Srivastava, I'm an embedded systems developer with hands-on experience in STM32 microcontroller programming. I focus on bare-metal programming and building hardware drivers from scratch using C and register-level programming.
 
 ## Technical Skills
 

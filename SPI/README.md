@@ -1,7 +1,7 @@
 # Embedded Systems Developer
 
 ## About Me
-I'm an enthusiastic learner in embedded systems, with growing experience in programming STM32 microcontrollers using C and CMSIS. I build small projects to practice hardware-level control of peripherals like GPIO, UART, SPI, I2C, and SysTick. I work without HAL or libraries to learn the fundamentals of how peripherals are configured and controlled directly through registers.
+My name is Saksham Srivastava, I'm an embedded systems developer with hands-on experience in STM32 microcontroller programming. I focus on bare-metal programming and building hardware drivers from scratch using C and register-level programming.
 
 ## Technical Skills
 

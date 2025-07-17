@@ -1,7 +1,7 @@
 # Embedded Systems Developer
 
 ## About Me
-I'm a skilled embedded systems developer with expertise in STM32 microcontroller programming and real-time communication systems. I specialize in building robust, interrupt-driven embedded applications with a focus on UART communication protocols and hardware abstraction layers.
+My name is Saksham Srivastava, I'm an embedded systems developer with hands-on experience in STM32 microcontroller programming. I focus on bare-metal programming and building hardware drivers from scratch using C and register-level programming.
 
 ## Technical Skills
 
